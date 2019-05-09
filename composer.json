@@ -1,5 +1,14 @@
 {
-  "require": {
-    "monolog/monolog": "1.0.*"
-  }
+    "name": "gzjack/wenphp",
+    "description": "composer test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "GZJack",
+            "email": "306056405@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
 }
